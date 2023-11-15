@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.4a397e4f.css",
-    "main.js": "./static/js/main.ae9b5037.js",
-    "service-worker.js": "./service-worker.js",
-    "index.html": "./index.html",
-    "main.4a397e4f.css.map": "./static/css/main.4a397e4f.css.map",
-    "main.ae9b5037.js.map": "./static/js/main.ae9b5037.js.map"
+    "main.css": "/misskey-radio-pages/static/css/main.4a397e4f.css",
+    "main.js": "/misskey-radio-pages/static/js/main.d03c8283.js",
+    "service-worker.js": "/misskey-radio-pages/service-worker.js",
+    "index.html": "/misskey-radio-pages/index.html",
+    "main.4a397e4f.css.map": "/misskey-radio-pages/static/css/main.4a397e4f.css.map",
+    "main.d03c8283.js.map": "/misskey-radio-pages/static/js/main.d03c8283.js.map"
   },
   "entrypoints": [
     "static/css/main.4a397e4f.css",
-    "static/js/main.ae9b5037.js"
+    "static/js/main.d03c8283.js"
   ]
 }
